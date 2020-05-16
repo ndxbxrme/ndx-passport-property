@@ -1,0 +1,62 @@
+{
+  "_from": "ndx-passport@0.4.5",
+  "_id": "ndx-passport@0.4.5",
+  "_inBundle": false,
+  "_integrity": "sha1-nmdaL3skb6es8bObuZxGOF+Bogs=",
+  "_location": "/ndx-passport",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "ndx-passport@0.4.5",
+    "name": "ndx-passport",
+    "escapedName": "ndx-passport",
+    "rawSpec": "0.4.5",
+    "saveSpec": null,
+    "fetchSpec": "0.4.5"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ndx-passport/-/ndx-passport-0.4.5.tgz",
+  "_shasum": "9e675a2f7b246fa7acf1b39bb99c46385f81a20b",
+  "_spec": "ndx-passport@0.4.5",
+  "_where": "C:\\Dev\\github\\vs-property",
+  "author": {
+    "name": "ndxbxrme"
+  },
+  "bugs": {
+    "url": "https://github.com/ndxbxrme/ndx-passport/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "objtrans": "0.0.14",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "passport login for ndx-framework",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "homepage": "https://github.com/ndxbxrme/ndx-passport",
+  "license": "MIT",
+  "loadOrder": 4,
+  "main": "build/index.js",
+  "name": "ndx-passport",
+  "ndx": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndxbxrme/ndx-passport.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "0.4.5"
+}
